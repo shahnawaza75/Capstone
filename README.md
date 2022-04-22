@@ -8,7 +8,7 @@ Built from this [Behance](https://www.behance.net/gallery/29845175/CC-Global-Sum
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo link](https://shahnawaza75.github.io/capstone/)
 
 ## Video
 
@@ -83,7 +83,7 @@ npx eslint .
 
 ## Authors
 
-👤 **Toyosi Toyosi**
+👤 **Shahnwaz Ali**
 
 - GitHub: [@Shahnawaza75](https://github.com/shahnawaza75/)
 
@@ -99,6 +99,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip Cindy Shin the author of the original design
 - Inspiration
 - etc
