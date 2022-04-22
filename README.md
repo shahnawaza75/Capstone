@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Capstone
+
 > online website for developersweek confrence
 
 Built from this [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
@@ -10,9 +11,11 @@ Built from this [Behance](https://www.behance.net/gallery/29845175/CC-Global-Sum
 [Live Demo Link]()
 
 ## Video
-In the following [link](https://www.loom.com/share/eb9df83f56b8498487a25c83e2c89b27) I am explaining the capstone project.
+
+In the following [link](https://www.loom.com/share/345b67d04e1a4d748a80a9739e4fa760) I am explaining the capstone project.
 
 ## Built With
+
 - HTML
 - CSS
 - JS
@@ -22,44 +25,60 @@ In the following [link](https://www.loom.com/share/eb9df83f56b8498487a25c83e2c89
 - ESLint
 
 ### Prerequisites
+
 The basic requirements for building the executable are:
-* A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
-* VSCode or any other equivalent code editor
-* Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment)
+
+- A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
+- VSCode or any other equivalent code editor
+- Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment)
 
 #### Cloning the project
+
 ```
 git clone: https://github.com/shahnawaza75/capstone.git
 ```
+
 ## Getting packages and debuging with Webhint
+
 ```
 npm init -y
 npm install --save-dev hint@6.x
 ```
+
 ##### For validation detection using Webhint Run
+
 ```
 npx hint .
 ```
+
 ##### from parent source directory
 
 ## Getting packages and debuging with Stylelint
+
 ```
 npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 ```
+
 ##### For validation detection using Stylelint Run
+
 ```
 npx stylelint "**/*.{css,scss}"
 ```
+
 ##### from parent source directory
 
 ## Getting packages and debuging with Stylelint
+
 ```
 npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
 ```
+
 ##### For validation detection using Stylelint Run
+
 ```
 npx eslint .
 ```
+
 ##### from parent source directory
 
 ## Authors
